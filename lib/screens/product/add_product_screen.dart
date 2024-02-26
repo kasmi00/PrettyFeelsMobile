@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:ecommerce/models/product_model.dart';
-import 'package:ecommerce/repositories/product_repositories.dart';
-import 'package:ecommerce/services/file_upload.dart';
-import 'package:ecommerce/viewmodels/category_viewmodel.dart';
+import 'package:pressiton_mobile/models/product_model.dart';
+import 'package:pressiton_mobile/repositories/product_repositories.dart';
+import 'package:pressiton_mobile/services/file_upload.dart';
+import 'package:pressiton_mobile/viewmodels/category_viewmodel.dart';
 import 'package:provider/provider.dart';
 
 import '../../viewmodels/auth_viewmodel.dart';

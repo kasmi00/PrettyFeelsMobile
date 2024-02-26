@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "357716419919",
+    "firebase_url": "https://sabdaharu-efd86-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sabdaharu-efd86",
+    "storage_bucket": "sabdaharu-efd86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357716419919:android:d18af3b7a87b95e6bd913a",
+        "android_client_info": {
+          "package_name": "com.example.pressiton_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357716419919-ekc838la4ql1vnpjd4jtlcml0hv3nbuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDqe8YjKUw4Wr9cdasTolqUE8b_DzKzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357716419919-ekc838la4ql1vnpjd4jtlcml0hv3nbuk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357716419919-1t8bdrfn45po6m8484n3nccd6uu00qb6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.swapreads"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357716419919:android:fffd87e64db2a323bd913a",
+        "android_client_info": {
+          "package_name": "com.example.swapreads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357716419919-ekc838la4ql1vnpjd4jtlcml0hv3nbuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDqe8YjKUw4Wr9cdasTolqUE8b_DzKzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357716419919-ekc838la4ql1vnpjd4jtlcml0hv3nbuk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357716419919-1t8bdrfn45po6m8484n3nccd6uu00qb6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.swapreads"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

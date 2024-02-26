@@ -1,11 +1,11 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:ecommerce/models/product_model.dart';
-import 'package:ecommerce/models/user_model.dart';
-import 'package:ecommerce/repositories/auth_repositories.dart';
-import 'package:ecommerce/services/firebase_service.dart';
-import 'package:ecommerce/viewmodels/global_ui_viewmodel.dart';
+import 'package:pressiton_mobile/models/product_model.dart';
+import 'package:pressiton_mobile/models/user_model.dart';
+import 'package:pressiton_mobile/repositories/auth_repositories.dart';
+import 'package:pressiton_mobile/services/firebase_service.dart';
+import 'package:pressiton_mobile/viewmodels/global_ui_viewmodel.dart';
 
 import '../models/favorite_model.dart';
 import '../repositories/favorite_repositories.dart';
